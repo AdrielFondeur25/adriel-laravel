@@ -30,7 +30,7 @@
       <input class="controls" type="text" name="apellidos" id="apellidos" placeholder="Ingrese su Apellido">
       <input class="controls" type="email" name="correo" id="correo" placeholder="Ingrese su Correo">
       <input class="controls" type="text" name="numero" id="numero" placeholder="Ingrese su Número">
-      <input class="controls" type="password" name="correo" id="correo" placeholder="Ingrese su Contraseña">
+      <input class="controls" type="password" name="password" id="password" placeholder="Ingrese su Contraseña">
       <input class="botons" type="submit" value="Registrar">
     </section>
     <br><br><br><br><br><br><br><br>
