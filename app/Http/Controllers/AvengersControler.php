@@ -17,7 +17,7 @@ class AvengersControler extends Controller
     
         $avengers->save();
     // $avengers = Avengers::all();
-        return http_redirect("rafe");
+        return http_redirect("formulario");
 
     }
 }
