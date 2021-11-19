@@ -13,20 +13,10 @@
     <![endif]-->
   </head>
 
-  <body background="img/fondo1.jpg">
-    <!-- Aquí empieza el encabezado principal que se mantendrá en todas las páginas del sitio web -->
-    <header> 
-    <center><img src="img/logo.png" alt="a simple dove logo"></center>
-    </header>
+  
 
 
-    <ul class="menu-nav">
-			<li><a href="index.html">Inicio</a></li>
-			<li><a href="#article">Historia</a></li>
-			<li><a href="#slider">Galeria</a></li>
-			<li><a href="#footer">Acerca De</a></li>
-			<li><a href="Formulario/formulario.html">Contacto</a></li>
-		</ul>
+    
 
     
       
@@ -48,23 +38,5 @@
 
 
 
-    <!-- Y aquí está nuestro pie de página principal que se utiliza en todas las páginas de nuestro sitio web -->
-    <footer id="footer">
-      <br><br>
-      <div class="footer-content">
-          <center><img src="img/logo.png" alt="a simple dove logo" width="400"></center>
-          <p>!Vengadores Reunidos!</p>
-          <ul class="socials">
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-              <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-          </ul>
-      </div>
-      <div class="footer-bottom">
-          <p class="text-footer">copyright &copy;2021 MarvelStudios. Diseñado por: <span>❤ Adriel Fondeur ❤</span></p>
-      </div>
-  </footer>
   </body>
 </html>
